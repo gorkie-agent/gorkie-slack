@@ -32,7 +32,7 @@ To clone and run this application, first you need to create a new [Slack App](ht
 From your command line:
 
 ```bash
-# Clone this repository
+#### Clone this repository
 $ git clone https://github.com/imdevarsh/gorkie-slack.git
 
 # Install dependencies
