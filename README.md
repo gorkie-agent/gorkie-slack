@@ -1,4 +1,4 @@
-<h1 align="center">Gorkie (for Slack)</h1>
+<h4 align="center">Gorkie (for Slack)</h4>
 
 ## 📋 Table of Contents
 
