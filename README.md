@@ -32,10 +32,10 @@ To clone and run this application, first you need to create a new [Slack App](ht
 From your command line:
 
 ```bash
-# Clone this repository
+#### Clone this repository
 $ git clone https://github.com/imdevarsh/gorkie-slack.git
 
-# Install dependencies
+#### Install dependencies
 $ bun install
 ```
 
@@ -43,10 +43,10 @@ Next, copy the .env.example file, rename it to .env, and add your environment va
 Great! Now you just need to start the app.
 
 ```bash
-# Start app in watch mode
+#### Start app in watch mode
 $ bun run dev
 
-# Start app in production
+#### Start app in production
 $ bun run start
 ```
 
